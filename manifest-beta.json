@@ -1,0 +1,8 @@
+{
+  "channel": "beta",
+  "version": "1.2.0",
+  "url": "https://raw.githubusercontent.com/k8dhnqmxjd-create/stromdisplay-releases/main/firmware/stromdisplay-mid-1.2.0.bin",
+  "sha256": "c3a7a072987ed2efbf6fa0523952ced2b5e6407aa3156fe8b49a51a56533dae3",
+  "size": 1741056,
+  "notes": "Phase 5 testing complete -- restored to known-good 1.2.0 beta manifest"
+}
