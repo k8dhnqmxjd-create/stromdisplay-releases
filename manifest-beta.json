@@ -1,8 +1,8 @@
 {
   "channel": "beta",
-  "version": "1.2.1",
-  "url": "https://raw.githubusercontent.com/k8dhnqmxjd-create/stromdisplay-releases/main/firmware/stromdisplay-mid-1.2.0.bin",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "size": 1741056,
-  "notes": "Phase-5-Test: deliberately wrong SHA-256 (rejection test)"
+  "version": "1.2.2",
+  "url": "https://raw.githubusercontent.com/k8dhnqmxjd-create/stromdisplay-releases/main/firmware/stromdisplay-mid-1.2.2-crashtest.bin",
+  "sha256": "ed5e1841ea0dad4391bd1dba5aa3a64ff1844bfdee81076392ea79df1b8d1840",
+  "size": 1493456,
+  "notes": "Phase-5-Test: deliberate crash in setup() to exercise boot-loop guard rollback"
 }
